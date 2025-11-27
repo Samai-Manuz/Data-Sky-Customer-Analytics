@@ -2,7 +2,7 @@
 
 Autora: Samai Manuz Rodríguez
 Lema: Volando con datos ☁️📊
-Notebook principal: Examen Samai.ipynb
+Notebook principal: Data Sky.ipynb
 
 🎯 Objetivo
 
@@ -28,7 +28,7 @@ Cancellation Year/Month → 0 (alta ausencia; se recomienda evaluar su eliminaci
 
 ▶️ Uso rápido
 
-Abre Examen Samai.ipynb.
+Abre Data Sky.ipynb.
 
 Ejecuta las celdas en orden para reproducir limpieza, EDA y contrastes.
 
@@ -36,7 +36,7 @@ Revisa las tablas finales (descriptivas, IC 95%) y las conclusiones del contrast
 
 📁 Estructura elemental del proyecto:
 .
-├─ Examen Samai.ipynb            # Notebook contenedor de todo el proceso
+├─ Data Sky.ipynb                # Notebook contenedor de todo el proceso
 ├─ Full Customer Fixed.parquet   # Dataset final (inicialmente creado/guardado como csv)
 ├─ Descriptive Stats.parquet     # Tabla resumen por Education
 ├─ Hipótesis 1.parquet           # Resultado de la primera prueba de hipótesis ('Hight School or Below' -VS- 'Doctor')
@@ -45,3 +45,4 @@ Revisa las tablas finales (descriptivas, IC 95%) y las conclusiones del contrast
 ✅ Resultado
 
 Un pipeline claro y reproducible que deja un dataset consolidado y evidencia estadística sobre las diferencias (o no), entre los diferentes subconjuntos de datos, listo para más pruebas de hipótesis y listo para la toma de decisiones.
+
